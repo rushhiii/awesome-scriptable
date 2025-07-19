@@ -69,14 +69,6 @@
 
 ## Calendar
 
-- [Class Schedule Viewer](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Class%20Schedule%20Viewer) - Displays your daily or weekly class schedule from a Google Sheet.
-
-  <img src="https://raw.githubusercontent.com/rushhiii/Scriptable-IOSWidgets/main/.src/schedule/schedule_showcase.png" width="700"/>
-
-- [Countdown Widget](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/Countdown%20Widget) - A fully customizable countdown widget, powered by Google Sheets. Track upcoming events (birthdays, anniversaries, deadlines) on your iOS home screen with dynamic countdowns, age display, color/icon customization, flexible layouts, offline support, and Google Sheets integration.
-
-  <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/4f3b76faaec6f5544f630b2d74c19f06d2b0c7a3/.src/countdown/countdow_showcase.png" width="700"/>
-
 - [countdown.js](https://gist.github.com/flasozzi/ab6222ea15de5113555c32c855e9e326) - Simple countdown to dates.
 
   <img src="https://user-images.githubusercontent.com/17153908/95031000-bdd3e980-0689-11eb-83ce-49e2adbe1ca1.jpg" width="400"/>
@@ -253,7 +245,7 @@
 
 - [server-status-widget.js](https://gist.github.com/dioncodes/cd4554d8593814a94925735cbcdea0c8) - Reachability of web servers.
 
-- [Time-Progress](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/ModularTimeProgress%20Widget) - Animated progress rings and grids showing your day, week, month, and year at a glance.
+- [Time-Progress](https://github.com/rushhiii/Scriptable-IOSWidgets/tree/main/TimeProgress%20Widget) - Animated progress rings and grids showing your day, week, month, and year at a glance.
 
   <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/blob/main/.src/timeprogress/timeprogress_showcase.png?raw=true" width="700"/>
 
